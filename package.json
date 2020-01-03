@@ -1,0 +1,23 @@
+{
+  "name": "fetch-npm",
+  "version": "1.0.0",
+  "description": "```bash\r npm i fetch-npm",
+  "main": "test.js",
+  "scripts": {
+    "doc": "jsdoc-c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferniss/fetch-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferniss/fetch-npm/issues"
+  },
+  "homepage": "https://github.com/Ferniss/fetch-npm#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  }
+}

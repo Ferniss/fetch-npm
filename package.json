@@ -4,7 +4,7 @@
   "description": "```bash\r npm i fetch-npm",
   "main": "test.js",
   "scripts": {
-    "doc": "jsdoc-c jsdoc.json"
+    "doc": "jsdoc -c jsdoc.json"
   },
   "repository": {
     "type": "git",
